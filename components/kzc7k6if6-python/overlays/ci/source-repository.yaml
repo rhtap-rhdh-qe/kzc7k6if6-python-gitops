@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kzc7k6if6-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/kzc7k6if6-python
